@@ -6,7 +6,7 @@ MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and M
 
 [Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https://henok.us)dfgdf
 
-**Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!
+**Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!m
 
 ## Table View
 
